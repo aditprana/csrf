@@ -2,8 +2,8 @@
 
 # Tugas Bahasa Pemrograman 3
 
-NPM: 14197054
+NPM: 14197041
 <br></br>
-Nama: Muhamad Sahal
+Nama: Aditya Abdillah
 <br></br>
 Kelas: C
